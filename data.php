@@ -30,7 +30,7 @@
         ["id"=>1,"exemplaire_id"=>1,"adherent_id"=>1,"statut"=>"Accepter","date"=>"12/11/2022"],
         ["id"=>2,"exemplaire_id"=>1,"adherent_id"=>2,"statut"=>"Encours","date"=>"13/11/2022"],
         ["id"=>3,"exemplaire_id"=>2,"adherent_id"=>2,"statut"=>"refuser","date"=>"15/10/2022"],
-        ["id"=>4,"exemplaire_id"=>4,"adherent_id"=>3,"statut"=>"Accepter","date"=>"12/04/2022"]
+        ["id"=>4,"exemplaire_id"=>4,"adherent_id"=>3,"statut"=>"Accepter","date"=>"12/04/2022"],
         ["id"=>5,"exemplaire_id"=>5,"adherent_id"=>1,"statut"=>"Accepter","date"=>"01/06/2022"]
 
     ];
