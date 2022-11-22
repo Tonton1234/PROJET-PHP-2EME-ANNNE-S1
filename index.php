@@ -1,5 +1,6 @@
 <?php require_once("data.php"); 
       require_once("model.php");
+      $ouvrage=find_ouvrage($ouvrages);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -11,6 +12,6 @@
     <title>projet1</title>
 </head>
 <body>
-    <?php require_once("lister.auteur.html.php") ?>
+    <?php require_once("lister.ouvrage.html.php") ?>
 </body>
 </html>
