@@ -1,0 +1,19 @@
+.conteneur{
+    background-color: whitesmoke;
+    padding: 2rem;
+    width: 50%;
+    height: 60vh;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.conteneur table{
+    border: 1px solid;
+    width: 90%;
+}
+th{
+    border: 1px solid;
+ }
