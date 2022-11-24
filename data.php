@@ -1,10 +1,10 @@
 <?php
     $ouvrages=[
-        ["id"=>1,"code"=>"BLV","titre"=>"Le bal des Voleurs","date_edition"=>1938,"auteur_id"=>3],
-        ["id"=>2,"code"=>"LVSB","titre"=>"Le Voyageur sans bagage","date_edition"=>1937,"auteur_id"=>3],
-        ["id"=>3,"code"=>"SPZ","titre"=>"Spinoza","date_edition"=>1900,"auteur_id"=>1],
-        ["id"=>4,"code"=>"IDE","titre"=>"Idees","date_edition"=>1932,"auteur_id"=>1],
-        ["id"=>5,"code"=>"LBCO","titre"=>"Le Bestiaire ou Cortege d'Orphee","date_edition"=>1911,"auteur_id"=>2]
+        ["id"=>1,"code"=>"BLV","titre"=>"Le bal des Voleurs","date_edition"=>1938,"auteur_id"=>3,1,"statut"=>"Disponioble"],
+        ["id"=>2,"code"=>"LVSB","titre"=>"Le Voyageur sans bagage","date_edition"=>1937,"auteur_id"=>3,"statut"=>"Disponioble"],
+        ["id"=>3,"code"=>"SPZ","titre"=>"Spinoza","date_edition"=>1900,"auteur_id"=>1,"statut"=>"Disponible"],
+        ["id"=>4,"code"=>"IDE","titre"=>"Idees","date_edition"=>1932,"auteur_id"=>1,"statut"=>"Disponioble"],
+        ["id"=>5,"code"=>"LBCO","titre"=>"Le Bestiaire ou Cortege d'Orphee","date_edition"=>1911,"auteur_id"=>2,"statut"=>"Disponioble"]
 
     ];
     $auteurs=[

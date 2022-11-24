@@ -7,6 +7,8 @@
                 <th>TITRE</th>
                 <th>DATE</th>
                 <th>AUTEUR</th>
+                <th>STATUT</th>
+
             </tr>
             <?php foreach ($ouvrage as $val):  ?>
                         <tr>
@@ -15,7 +17,9 @@
                             <th><?php echo($val["titre"]); ?></th>
                             <th><?php echo($val["date"]); ?></th>
                             <th><?php echo($val["auteur"]); ?></th>
+                            <th><?php echo($val["statut"]); ?></th>
                         </tr>
             <?php endforeach ?>
         </table>
+        
 </div>
